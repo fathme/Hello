@@ -1,4 +1,6 @@
-ÎÒ¶Ô´ÎÎÄ±¾×öÁËÐÞ¸Ä
+﻿ÎÒ¶Ô´ÎÎÄ±¾×öÁËÐÞ¸Ä
 
 shi le zhe me duo ci 
 when you commit changes we will transcode it to
+
+once again 
